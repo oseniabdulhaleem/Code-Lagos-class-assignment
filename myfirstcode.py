@@ -1,0 +1,7 @@
+print('the formulae (-b+4ac)/2a program')
+print('input the value of a,b and c') 
+b=eval(input('input the value of b: \n'))
+a=eval(input('input the value of a: \n'))
+c=eval(input('input the value of c: \n'))
+X=(((-1*b)+(4*a*c))/(2*a))
+print('the value of X is',X)
